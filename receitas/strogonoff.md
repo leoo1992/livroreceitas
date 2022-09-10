@@ -1,5 +1,6 @@
-#**_Strogonoff de Frango_**
-###Ingridientes
+<h1>Strogonoff de Frango</h1>
+<h3>Ingridientes</h3>
+
  - frango
  - creme de leite
  - Champignion
